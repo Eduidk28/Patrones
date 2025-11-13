@@ -1,4 +1,4 @@
-Taller de Patrones de Diseño Grupo 5
+#Taller de Patrones de Diseño Grupo 5
 
 Bienvenido a nuestro repositorio del Taller de Patrones de Diseño.
 Aquí aplicamos distintos patrones a un sistema de una tienda que maneja tarjetas de crédito y envía notificaciones a los clientes.
